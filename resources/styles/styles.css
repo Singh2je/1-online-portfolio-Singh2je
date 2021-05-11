@@ -1,0 +1,33 @@
+body {
+  background-color: rgb(24, 250, 235);
+}
+
+img {
+  border: 5px solid rgb(37, 8, 8);
+  float: left;
+  margin-right: 10px;
+  clear: both;
+}
+
+#personalBackground {
+  margin-left: 0px;
+  overflow: auto;
+  display: block;
+}
+
+#experience {
+  clear: both;
+  float: left;
+}
+
+#achievements {
+  clear: both;
+}
+
+#programmingLanguages {
+  float: right;
+}
+
+#games {
+  clear: both;
+}
